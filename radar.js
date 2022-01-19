@@ -12,3 +12,6 @@ function verificarVelocidade (velocidade){
     }
     }    
 console.log('Você perdeu ' + verificarVelocidade(122) + ' pontos na sua  carteira de Habilitação.')
+
+
+console.log("testando isso aqui")

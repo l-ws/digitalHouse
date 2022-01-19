@@ -9,3 +9,6 @@ console.log(soma);
 
 let media = soma/notas.length
 console.log(media)
+
+console.log("testando isso aqui")
+console.log("testando isso aqui")

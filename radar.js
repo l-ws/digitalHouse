@@ -15,3 +15,4 @@ console.log('Você perdeu ' + verificarVelocidade(122) + ' pontos na sua  cartei
 
 
 console.log("testando isso aqui")
+console.log("testando isso aqui")

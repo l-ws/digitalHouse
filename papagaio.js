@@ -18,3 +18,6 @@ let d = divisiveisPor3+divisiveisPor5;
 console.log(d)
 };
  calcular(10)
+
+console.log("testando isso aqui")
+console.log("testando isso aqui")

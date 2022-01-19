@@ -40,3 +40,9 @@ console.log('O total de vendas foi '+ valorTotal)
 console.log(valorTotal)
 console.log('O valor a receber é')
 console.log(valorTotal -vendasMaquina)
+
+
+
+
+console.log("testando isso aqui")
+console.log("testando isso aqui")

@@ -40,3 +40,5 @@ function adicionarHttp (a) {
 
     };
 
+    console.log("testando isso aqui")
+    console.log("testando isso aqui")

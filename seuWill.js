@@ -30,14 +30,14 @@ function cremosinhos(cremosinhos){
 function vendasCartao (a){
     return vendasMaquina += a
 }
-vendasCartao()
-picoles()
-skimos()
-coberturas()
-laranjinhas()
-cremosinhos()
+vendasCartao(7)
+picoles(39-24)
+skimos(12-7)
+coberturas(6-4)
+laranjinhas(12-1)
+cremosinhos(0)
 console.log('O total de vendas foi '+ valorTotal)
-console.log(valorTotal)
+console.log(valorTotal) 
 console.log('O valor a receber é')
 console.log(valorTotal -vendasMaquina)
 
